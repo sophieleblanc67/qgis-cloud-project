@@ -6,4 +6,4 @@ Ce dépôt permet d’ouvrir **QGIS complet dans ton navigateur** sans installat
 
 Clique ici pour démarrer QGIS :
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sowerbii/qgis-cloud-project/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sophieleblanc67/qgis-cloud-project/HEAD)
